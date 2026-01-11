@@ -1,8 +1,3 @@
-Aquí tienes el archivo `README.md` generado en formato **MDX** (Markdown enriquecido), diseñado para ser atractivo, funcional y técnicamente preciso basado en el análisis profundo del código `pymusic.py`.
-
-***
-
-```mdx
 # 🎵 PyMusic
 
 > Un reproductor de música TUI (Terminal User Interface) moderno, inspirado en `cmus`, diseñado para transmitir tu biblioteca musical vía **WebDAV** o reproducirla localmente.
@@ -185,4 +180,4 @@ Distribuido bajo la licencia MIT. Ver `LICENSE` para más información.
 <div align="center">
   <sub>Desarrollado con ❤️ por uGeek y potenciado por IA</sub>
 </div>
-```
+
